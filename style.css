@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.container{
+    border: 2px solid white;
+    padding: 25px;
+    height: 810px;
+    width: 850px;
+    background-color:rgb(199, 229, 129) ;
+    color: black;
+    padding: 64px;
+
+
+}
+.form-control{
+    background-color: gray;
+}
+.row g-3 .col-6 input{
+    border-radius: 2px solid black;
+    background-color: gray;
+}
+.img1{
+    margin-left: 200px;
+    margin-top: -20px;
+    border: 0px;
+    opacity: 1;
+    
+}
+img{
+    margin:42px 14px;
+    display: block;
+}
+label{
+    margin-top: 5px;
+}
+.check{
+    margin-top: 10px;
+}
+button{
+     margin-top: 15px;
+     border-radius: 2px white;
+     box-shadow: white;
+     width:100%;
+     background-color: orangered;
+     color: white;
+     height: 43px;
+     padding: 10px;
+}
